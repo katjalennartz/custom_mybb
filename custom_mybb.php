@@ -30,7 +30,7 @@ function custom_mybb_info()
  * Man könnte auch testen ob es eine bestimmte Tabelle in der Datenbank gibt oder ein bestinmmtes Feld in einer Tabelle
  */
 
-function custom_is_installed()
+function custom_mybb_is_installed()
 {
   global $db, $mybb;
 
